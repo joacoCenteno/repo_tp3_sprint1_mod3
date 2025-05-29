@@ -1,0 +1,81 @@
+ [{
+    "id": 4,
+    "nombreSuperheroe": "Ponzi-Duende",
+    "nombreReal": "Eduardo Miguel",
+    "nombreSociedad": "Vigilante",
+    "edad": 57,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Papas Fritas, Ruidos",
+    "poder": [
+      "Molestar",
+      "Hablar sin saber"
+    ],
+    "habilidadEspecial": "Estafar",
+    "aliado": [
+      "Boa Hancock"
+    ],
+    "enemigo": [
+      "La sociedad"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Gia Hancock",
+    "nombreReal": "Sabrina Giacomino",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Venus",
+    "debilidad": "Control Emocional",
+    "poder": [
+      "Congelar corazones",
+      "petrificacion"
+    ],
+    "habilidadEspecial": "Enamoamiento instantaneo",
+    "aliado": [
+      "Ponzi Duende"
+    ],
+    "enemigo": [
+      "LokiPonzi Duende"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitan América",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Vigilante",
+    "edad": 103,
+    "planetaOrigen": "Tierra",
+    "debilidad": "No tiene habilidades sobrehumanas",
+    "poder": [
+      "Fuerza aumentada",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Escudo indestructible",
+    "aliado": [
+      "Bucky Barnes"
+    ],
+    "enemigo": [
+      "Red Skull"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero Supremo",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desconocida",
+    "poder": [
+      "Magia",
+      "Teletransportación"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": [
+      "Wong"
+    ],
+    "enemigo": [
+      "Dormammu"
+    ]
+  }
+]
